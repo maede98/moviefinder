@@ -7,7 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 class Dastebandi extends React.Component{
     render(){
         return(
-            <div style={{padding:'20px'}}>
+            <div style={{padding:'25px'}}>
                 <CardDeck>
                     <Card bg="blue" style={{margin:'20px'}}>   
                         <Card.body>
@@ -50,7 +50,6 @@ class Dastebandi extends React.Component{
                         </Card.body>
                       </Card>              
                 </CardDeck>
-                
                
             </div>
         )
